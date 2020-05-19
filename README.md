@@ -6,6 +6,4 @@ I’m passionate about leveraging technology to empower individuals with resourc
 
 ## come say hi
 
-- [mail.for.loftus@gmail.com](mailto:mail.for.loftus@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aploftus/)
-- [Github](https://github.com/aploftus/)
+[Email](mailto:mail.for.loftus@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aploftus/) | [Github](https://github.com/aploftus/)
